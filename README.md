@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Shardul%20Shinde&fontSize=52&fontColor=8FA3B8&fontAlignY=42&desc=%E9%8D%9B%E9%80%A0%20%C2%B7%20kitan%20%C2%B7%20forging&descSize=16&descAlignY=68&descColor=5C6B7A&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3400&pause=900&color=8FA3B8&center=true&vCenter=true&width=560&lines=native+modules%2C+payment+rails%2C+on-device+inference;I+read+the+spec.+then+I+read+the+source.;%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%E2%80%94+every+build+is+its+own+moment" alt="typing" />
-  </a>
+  <marquee behavior="scroll" direction="left" scrollamount="3">
+    <sub>&nbsp;&nbsp; TypeScript &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Python &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; Java (native modules) &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Git
+    &nbsp;&nbsp;&nbsp;&nbsp; ／ &nbsp;&nbsp;&nbsp;&nbsp;
+    タイプスクリプト &nbsp;・&nbsp; リアクトネイティブ &nbsp;・&nbsp; パイソン &nbsp;・&nbsp; シープラスプラス &nbsp;・&nbsp; ジャバ &nbsp;・&nbsp; エスキューエル &nbsp;・&nbsp; ネクストジェイエス &nbsp;・&nbsp; ギット &nbsp;&nbsp;</sub>
+  </marquee>
 </p>
 
 <p align="center">
