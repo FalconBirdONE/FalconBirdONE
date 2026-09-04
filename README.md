@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Shardul%20Shinde&fontSize=52&fontColor=8FA3B8&fontAlignY=42&desc=%E9%8D%9B%E9%80%A0%20%C2%B7%20kitan%20%C2%B7%20forging&descSize=16&descAlignY=68&descColor=5C6B7A&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Shardul%20Shinde&fontSize=52&fontColor=8FA3B8&fontAlignY=42&desc=%E9%8D%9B%E9%80%A0%20%C2%B7%20kitan%20%C2%B7%20forging&descSize=16&descAlignY=68&descColor=6FA8B8&animation=fadeIn" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FalconBirdONE/FalconBirdONE/main/tech-stack.svg" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shardul"><img src="https://img.shields.io/badge/LinkedIn-2F3A45?style=flat-square&logo=linkedin&logoColor=8FA3B8" /></a>
-  <a href="https://shardulshinde.com"><img src="https://img.shields.io/badge/Website-2F3A45?style=flat-square&logo=safari&logoColor=8FA3B8" /></a>
-  <a href="mailto:shardulshinde2005@gmail.com"><img src="https://img.shields.io/badge/Mail-2F3A45?style=flat-square&logo=maildotru&logoColor=8FA3B8" /></a>
+  <a href="https://linkedin.com/in/shardul"><img src="https://img.shields.io/badge/LinkedIn-2F3A45?style=flat-square&logo=linkedin&logoColor=6FA8B8" /></a>
+  <a href="https://shardulshinde.com"><img src="https://img.shields.io/badge/Website-2F3A45?style=flat-square&logo=safari&logoColor=6FA8B8" /></a>
+  <a href="mailto:shardulshinde2005@gmail.com"><img src="https://img.shields.io/badge/Mail-2F3A45?style=flat-square&logo=maildotru&logoColor=6FA8B8" /></a>
 </p>
 
 <div align="center">
   <sub><code>─────────────────────  序  ─────────────────────</code></sub>
 </div>
 
-```
+```yaml
 core        TypeScript · React · React Native · Python · C/C++ · Java (native modules) · SQL
 mobile      Expo · Gradle · Android SDK · NFC/HCE · TFLite · Room/SQLite
 web         Next.js (App Router) · TanStack Query · TanStack Table
@@ -28,8 +28,8 @@ tooling     Git · Claude Code · MCP · Cursor · Obsidian
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=FalconBirdONE&show_icons=true&hide_border=true&bg_color=00000000&title_color=8FA3B8&text_color=7D8B99&icon_color=8FA3B8&hide=issues&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FalconBirdONE&show_icons=true&hide_border=true&bg_color=00000000&title_color=6FA8B8&text_color=7D8B99&icon_color=6FA8B8&hide=issues&card_width=420" />
   <br /><br />
   <sub><code>一期一会</code></sub>
-  <br />s
+  <br />
 </div>
