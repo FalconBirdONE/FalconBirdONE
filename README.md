@@ -40,9 +40,7 @@ Classical foundations (RSA signing, stream and block ciphers, implemented rather
 
 Authorization layers for agents that move money — scoped mandates, revocation, audit trails, and the assumption that the agent will eventually do something stupid. Building for the case where the model is wrong and the ledger still has to be right.
 
-### transformers, from the inside
 
-Attention, positional encoding, tokenization, embeddings — worked through implementation-first rather than API-first, because the failure modes only make sense once you've seen the matrices.
 
 <div align="center">
   <sub><code>─────────────────────  具  ─────────────────────</code></sub>
