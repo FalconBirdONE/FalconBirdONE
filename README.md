@@ -10,9 +10,6 @@
   <a href="mailto:shardulshinde2005@gmail.com"><img src="https://img.shields.io/badge/Mail-2F3A45?style=flat-square&logo=maildotru&logoColor=6FA8B8" /></a>
 </p>
 
-<div align="center">
-  <sub><code>─────────────────────  序  ─────────────────────</code></sub>
-</div>
 
 ```yaml
 core        TypeScript · React · React Native · Python · C/C++ · Java (native modules) · SQL
@@ -28,7 +25,7 @@ tooling     Git · Claude Code · MCP · Cursor · Obsidian
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=FalconBirdONE&show_icons=true&hide_border=true&bg_color=00000000&title_color=6FA8B8&text_color=7D8B99&icon_color=6FA8B8&hide=issues&card_width=420" />
+
   <br /><br />
   <sub><code>一期一会</code></sub>
   <br />
