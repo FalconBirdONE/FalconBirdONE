@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Shardul%20Shinde&fontSize=52&fontColor=8FA3B8&fontAlignY=42&desc=%E9%8D%9B%E9%80%A0%20%C2%B7%20kitan%20%C2%B7%20forging&descSize=16&descAlignY=68&descColor=5C6B7A&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="3">
-    <sub>&nbsp;&nbsp; TypeScript &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Python &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; Java (native modules) &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Git
-    &nbsp;&nbsp;&nbsp;&nbsp; ／ &nbsp;&nbsp;&nbsp;&nbsp;
-    タイプスクリプト &nbsp;・&nbsp; リアクトネイティブ &nbsp;・&nbsp; パイソン &nbsp;・&nbsp; シープラスプラス &nbsp;・&nbsp; ジャバ &nbsp;・&nbsp; エスキューエル &nbsp;・&nbsp; ネクストジェイエス &nbsp;・&nbsp; ギット &nbsp;&nbsp;</sub>
+  <marquee behavior="scroll" direction="left" scrollamount="2">
+    <sub>&nbsp; TypeScript &nbsp;/&nbsp; タイプスクリプト &nbsp;・&nbsp; React Native &nbsp;/&nbsp; リアクトネイティブ &nbsp;・&nbsp; Python &nbsp;/&nbsp; パイソン &nbsp;・&nbsp; C/C++ &nbsp;/&nbsp; シープラスプラス &nbsp;・&nbsp; Java &nbsp;/&nbsp; ジャバ &nbsp;・&nbsp; SQL &nbsp;/&nbsp; エスキューエル &nbsp;・&nbsp; Next.js &nbsp;/&nbsp; ネクストジェイエス &nbsp;・&nbsp; Git &nbsp;/&nbsp; ギット &nbsp;</sub>
   </marquee>
 </p>
 
@@ -18,7 +16,7 @@
   <sub><code>─────────────────────  序  ─────────────────────</code></sub>
 </div>
 
-I work where the abstraction leaks — the seam between a JS bundle and a native `.so`, between a payment spec and the terminal actually holding the card. Most of what I build is infrastructure someone else's product sits on top of, which means it either works silently or it fails at 2am.
+I work where the abstraction leaks — the seam between a JS bundle and the native Android code beneath it, between a payment spec and the terminal actually holding the card. Most of what I build is infrastructure someone else's product sits on top of, which means it either works silently or it fails at 2am.
 
 I don't collect frameworks. I pick a layer, read down to where the documentation stops, and stay there until the thing is deployed and boring.
 
