@@ -60,10 +60,6 @@ tooling     Git · Claude Code · MCP · Cursor · Obsidian
   <sub><code>─────────────────────  外  ─────────────────────</code></sub>
 </div>
 
-Outside the terminal I run a university tech council — which is mostly logistics, email pipelines, and convincing four hundred people to be in the same room at the same time. Turns out shipping an event and shipping software fail for identical reasons.
-
-Otherwise: F1, chess, table tennis, geopolitics, and an unreasonable amount of Minecraft.
-
 <div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=FalconBirdONE&show_icons=true&hide_border=true&bg_color=00000000&title_color=8FA3B8&text_color=7D8B99&icon_color=8FA3B8&hide=issues&card_width=420" />
