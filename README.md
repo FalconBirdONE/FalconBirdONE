@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Shardul%20Shinde&fontSize=52&fontColor=8FA3B8&fontAlignY=42&desc=%E9%8D%9B%E9%80%A0%20%C2%B7%20kitan%20%C2%B7%20forging&descSize=16&descAlignY=68&descColor=5C6B7A&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FalconBirdONE/FalconBirdONE/main/assets/tech-stack.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/FalconBirdONE/FalconBirdONE/main/tech-stack.svg" width="100%" />
 </p>
 
 <p align="center">
